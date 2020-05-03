@@ -1,5 +1,423 @@
 <application>
   <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/CamiloFernandoL/confianza.git" />
+          <option name="name" value="confianza" />
+          <option name="namespace" value="Camilo" />
+          <option name="sshUrl" value="git@gitlab.com:CamiloFernandoL/confianza.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/CamiloFernandoL/confianza_escolar.git" />
+          <option name="name" value="confianza_escolar" />
+          <option name="namespace" value="Camilo" />
+          <option name="sshUrl" value="git@gitlab.com:CamiloFernandoL/confianza_escolar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/datavoz-ei.git" />
+          <option name="name" value="datavoz-ei" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/datavoz-ei.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/datavoz-elri.git" />
+          <option name="name" value="datavoz-elri" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/datavoz-elri.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/datavoz_sence.git" />
+          <option name="name" value="datavoz_sence" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/datavoz_sence.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/funcionarios.git" />
+          <option name="name" value="funcionarios" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/funcionarios.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/mail_doctores.git" />
+          <option name="name" value="mail_doctores" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/mail_doctores.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/moodle.git" />
+          <option name="name" value="moodle" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/moodle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz/operaciones.git" />
+          <option name="name" value="operaciones" />
+          <option name="namespace" value="datavoz" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz/operaciones.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/encuestasweb/mautic.git" />
+          <option name="name" value="mautic" />
+          <option name="namespace" value="encuestasweb" />
+          <option name="sshUrl" value="git@gitlab.com:encuestasweb/mautic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/admin_encuestas.git" />
+          <option name="name" value="admin_encuestas" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/admin_encuestas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/api-rest.git" />
+          <option name="name" value="api-rest" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/api-rest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/apirestfull.git" />
+          <option name="name" value="apirestfull" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/apirestfull.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/asesorias.git" />
+          <option name="name" value="asesorias" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/asesorias.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/brujula.git" />
+          <option name="name" value="brujula" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/brujula.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/brujula-sernac-final.git" />
+          <option name="name" value="brujula-sernac-final" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/brujula-sernac-final.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/capacitacion.git" />
+          <option name="name" value="capacitacion" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/capacitacion.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/chamilo-1.11.6-php7.git" />
+          <option name="name" value="chamilo-1.11.6-php7" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/chamilo-1.11.6-php7.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/clinic.git" />
+          <option name="name" value="clinic" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/clinic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/coreui-58.git" />
+          <option name="name" value="coreui-58" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/coreui-58.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/curso-2019.git" />
+          <option name="name" value="curso-2019" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/curso-2019.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/cursos.git" />
+          <option name="name" value="cursos" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/cursos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz-cedep.git" />
+          <option name="name" value="datavoz-cedep" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz-cedep.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz.turismo.git" />
+          <option name="name" value="datavoz.turismo" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz.turismo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz_encla.git" />
+          <option name="name" value="datavoz_encla" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz_encla.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz_operaciones.git" />
+          <option name="name" value="datavoz_operaciones" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz_operaciones.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/datavoz_turismo_online.git" />
+          <option name="name" value="datavoz_turismo_online" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/datavoz_turismo_online.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/educatec.git" />
+          <option name="name" value="educatec" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/educatec.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/epulso-v2.git" />
+          <option name="name" value="epulso-v2" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/epulso-v2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/fonide.git" />
+          <option name="name" value="fonide" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/fonide.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/foro.git" />
+          <option name="name" value="foro" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/foro.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/larastart.git" />
+          <option name="name" value="larastart" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/larastart.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/larastart-coreui.git" />
+          <option name="name" value="larastart-coreui" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/larastart-coreui.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/larastart-v3.git" />
+          <option name="name" value="larastart-v3" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/larastart-v3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/laravel-docker.git" />
+          <option name="name" value="Laravel Docker" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/laravel-docker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/laravel-pos.git" />
+          <option name="name" value="laravel-pos" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/laravel-pos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/laravel-vue-spa.git" />
+          <option name="name" value="laravel-vue-spa" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/laravel-vue-spa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/laravel_58_coreio_vue_inspire_template.git" />
+          <option name="name" value="laravel_58_coreio_vue_inspire_template" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/laravel_58_coreio_vue_inspire_template.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/learning-5.6.git" />
+          <option name="name" value="learning-5.6" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/learning-5.6.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/lime_admin.git" />
+          <option name="name" value="lime_admin" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/lime_admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/limesurvey3-17.git" />
+          <option name="name" value="limesurvey3-17" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/limesurvey3-17.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/oneui-42.git" />
+          <option name="name" value="oneui-42" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/oneui-42.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/osticket.git" />
+          <option name="name" value="osticket" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/osticket.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/penta-uc.git" />
+          <option name="name" value="penta-uc" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/penta-uc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/plantilla.git" />
+          <option name="name" value="plantilla" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/plantilla.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/puc-fonide.git" />
+          <option name="name" value="puc-fonide" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/puc-fonide.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/pentauc-genio.git" />
+          <option name="name" value="puntauc-genio" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/pentauc-genio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/sb-admin-2-template-laravel.git" />
+          <option name="name" value="sb-admin-2-template-laravel" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/sb-admin-2-template-laravel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/sistema.git" />
+          <option name="name" value="sistema" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/sistema.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/sky-dashboard.git" />
+          <option name="name" value="sky-dashboard" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/sky-dashboard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/store.git" />
+          <option name="name" value="store" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/store.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/epulso/web-asesorias.git" />
+          <option name="name" value="web-asesorias" />
+          <option name="namespace" value="epulso" />
+          <option name="sshUrl" value="git@gitlab.com:epulso/web-asesorias.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/admin_encuestas.git" />
+          <option name="name" value="admin_encuestas" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/admin_encuestas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/aprendible.git" />
+          <option name="name" value="aprendible" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/aprendible.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/auth.git" />
+          <option name="name" value="auth" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/auth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/dashboard.git" />
+          <option name="name" value="dashboard" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/dashboard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/demo_auth.git" />
+          <option name="name" value="demo_auth" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/demo_auth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/epulso_cl.git" />
+          <option name="name" value="epulso_cl" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/epulso_cl.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/epulso_html.git" />
+          <option name="name" value="epulso_html" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/epulso_html.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/informe_sky.git" />
+          <option name="name" value="informe_sky" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/informe_sky.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/laravel_permission.git" />
+          <option name="name" value="laravel_permission" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/laravel_permission.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/lime_epulso.git" />
+          <option name="name" value="lime_epulso" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/lime_epulso.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/limesurvey.git" />
+          <option name="name" value="limesurvey" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/limesurvey.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/mplap.git" />
+          <option name="name" value="mplap" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/mplap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/scraping.git" />
+          <option name="name" value="scraping" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/scraping.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fco_gr/udp_asamblea.git" />
+          <option name="name" value="udp_asamblea" />
+          <option name="namespace" value="Francisco Gonzalez" />
+          <option name="sshUrl" value="git@gitlab.com:fco_gr/udp_asamblea.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/multiweb/datavoz_foto.git" />
+          <option name="name" value="datavoz_foto" />
+          <option name="namespace" value="multiweb" />
+          <option name="sshUrl" value="git@gitlab.com:multiweb/datavoz_foto.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/multiweb/sdm_v2.git" />
+          <option name="name" value="sdm_v2" />
+          <option name="namespace" value="multiweb" />
+          <option name="sshUrl" value="git@gitlab.com:multiweb/sdm_v2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/multiweb/sdm_v3.git" />
+          <option name="name" value="sdm_v3" />
+          <option name="namespace" value="multiweb" />
+          <option name="sshUrl" value="git@gitlab.com:multiweb/sdm_v3.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="gitlabServers">
       <list>
         <GitlabServer>
